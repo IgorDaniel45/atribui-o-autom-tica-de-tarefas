@@ -1,3 +1,5 @@
+import threading
+import time
 import Graph_API
 import atualizar_planilha
 import verificar_maquinas_preparadas
